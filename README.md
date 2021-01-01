@@ -1,8 +1,8 @@
-# [Jinja Template](https://appseed.us/jinja-template) Star Admin
+# [Jinja Template](https://appseed.us/jinja-template) [Star Admin](https://appseed.us/star-admin)
 
 > Template [boilerplate code](https://appseed.us/boilerplate-code) used by [AppSeed](https://appseed.us) to generate simple starters coded in [Flask](https://palletsprojects.com/p/flask/) - Features:
 
-- UI Kit: **Neumorphism UI** (Free Version) by **Themesberg**
+- UI Kit: **Star Admin** (Free Version) by **BootstrapDash**
 - Render Engine: Flask / [Jinja2](https://jinja.palletsprojects.com/)
 - Deployment scripts: Docker, Gunicorn/Nginx, HEROKU
 - Support via **Github** (issues tracker) and [Discord](https://discord.gg/fZC6hup).

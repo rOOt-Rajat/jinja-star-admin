@@ -1,8 +1,8 @@
-# [Jinja Template](https://appseed.us/jinja-template) [Star Admin](https://appseed.us/star-admin)
+# [Jinja Template](https://appseed.us/jinja-template) [Star Admin](https://appseed.us/admin-dashboards/django-star-admin)
 
 > Template [boilerplate code](https://appseed.us/boilerplate-code) used by [AppSeed](https://appseed.us) to generate simple starters coded in [Flask](https://palletsprojects.com/p/flask/) - Features:
 
-- UI Kit: **Star Admin** (Free Version) by **BootstrapDash**
+- UI Kit: **[Star Admin](https://appseed.us/admin-dashboards/django-star-admin)** (Free Version) by **BootstrapDash**
 - Render Engine: Flask / [Jinja2](https://jinja.palletsprojects.com/)
 - Deployment scripts: Docker, Gunicorn/Nginx, HEROKU
 - Support via **Github** (issues tracker) and [Discord](https://discord.gg/fZC6hup).
@@ -212,4 +212,4 @@ Visit `http://localhost:8001` in your browser. The app should be up & running.
 <br />
 
 ---
-[Jinja Template](https://appseed.us/jinja-template) Star Admin - Provided by **AppSeed** [App Generator](https://appseed.us/app-generator).
+[Jinja Template](https://appseed.us/jinja-template) [Star Admin](https://appseed.us/admin-dashboards/django-star-admin) - Provided by **AppSeed** [App Generator](https://appseed.us/app-generator).
